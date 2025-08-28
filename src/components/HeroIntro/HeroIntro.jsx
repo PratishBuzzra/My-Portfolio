@@ -42,7 +42,7 @@ const HeroIntro = ({ mode }) => {
                 : "hover:bg-[#f6d4b1] hover:text-[#1A1A1A]"
             } transition delay-150 duration-300 ease-in-out`}
           >
-            My Resume
+            <a href="/images/Pratish_Resume.pdf" target="_blank" rel="noreferrer">My Resume</a> 
           </button>
         </div>
       </div>

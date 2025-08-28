@@ -30,7 +30,7 @@ const MenuItem = ({mode, setMode, openNav, setOpenNav}) => {
             </a>
         </li>
          <li>
-            <a href="">
+            <a href="/images/Pratish_Resume.pdf" download>
                 <IoDocumentTextSharp className='text-2xl'/>
             </a>
         </li>
