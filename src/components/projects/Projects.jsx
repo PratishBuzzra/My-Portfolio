@@ -40,8 +40,8 @@ const allProjects = [
         projectName: "Goggl React",
         projectDesc: "Built Search Engine App Built with React and Google Custom Search API, supporting text, image, and YouTube search via RapidAPI, with global state managed through Context API",
         projectLanguages: ["reactjs", "tailwindcss", "API"],
-        projectLiveLink : "https://pratishbuzzra.github.io/Pomodoro_Timer/",
-        projectGithub: "https://github.com/PratishBuzzra/Pomodoro_Timer.git"
+        projectLiveLink : "https://goggl-react-two.vercel.app/",
+        projectGithub: "https://github.com/PratishBuzzra/Goggl-React.git"
     },
     {
         id: 5,
