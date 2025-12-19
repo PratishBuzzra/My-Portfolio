@@ -49,8 +49,8 @@ const allProjects = [
         projectName: "ShopBuzzra Ecommmerce Site",
         projectDesc: "Built E-Commerce Platform Full-stack MERN app with product management, role-based user authentication, secure checkout with Esewa payment integration, and state management using React Router, Context API, and Reducer.",
         projectLanguages: ["MERN", "tailwindcss"],
-        projectLiveLink : "https://pratishbuzzra.github.io/Pomodoro_Timer/",
-        projectGithub: "https://github.com/PratishBuzzra/Pomodoro_Timer.git"
+        projectLiveLink : "",
+        projectGithub: ""
     }
 ]
 const Projects = ({mode}) => {
