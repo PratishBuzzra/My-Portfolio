@@ -19,7 +19,7 @@ const HeroIntro = ({ mode }) => {
         </div>
         <div className="mb-6">
           <p className="text-center sm:text-lg md:text-xl leading-relaxed max-w-2xl">
-            Aspiring Front-End Developer with a desire to create, learn, and
+            Aspiring FullStack Developer with a desire to create, learn, and
             grow into a full-fledged software developer. Passionate about
             technology and always exploring new ways to build smart,
             user-friendly solutions.
