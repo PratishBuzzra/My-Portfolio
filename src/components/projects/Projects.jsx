@@ -51,7 +51,7 @@ const allProjects = [
         projectDesc: "Developed a full-stack MERN e-commerce platform featuring product management, role-based user authentication, and secure checkout with Esewa payment integration. The application uses React Router, Context API, and Reducer for efficient state management.",
         projectLanguages: ["MERN", "tailwindcss"],
         projectLiveLink : "",
-        projectGithub: ""
+        projectGithub: "https://github.com/PratishBuzzra/ShopBuzzra-EcommerceSite.git"
     },
     {
     id: 6,
