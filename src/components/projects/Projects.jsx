@@ -5,6 +5,7 @@ import SMMS from "/images/SMS.png"
 import gogl from "/images/gogl.png"
 import shopbuzz from "/images/shopbuzz.png"
 import Zobly from "/images/Zobly.png"
+import shoppingcart from "/images/shoppingcart.png"
 import { PiLinkSimpleBold } from "react-icons/pi";
 import { FaGithub } from "react-icons/fa";
 const allProjects = [
@@ -61,6 +62,15 @@ const allProjects = [
     projectLanguages: ["Reactjs", "Node.js", "Express", "Prisma", "PostgreSQL", "Tailwind CSS"],
     projectLiveLink: "",
     projectGithub: "https://github.com/PratishBuzzra/Zobly-PERN.git"
+},
+  {
+    id: 7,
+    projectImg: shoppingcart,
+    projectName: "Shopping Cart",
+    projectDesc: "A responsive shopping cart built with React, Redux Toolkit, React Router, and Context API. It includes product search, filtering, pagination, and allows users to manage their cart with smooth user experience.",
+    projectLanguages: ["Reactjs", "Redux", "ContextAPI", "CSS"],
+    projectLiveLink: "https://shopping-cart-lake-beta.vercel.app/",
+    projectGithub: "https://github.com/PratishBuzzra/Shopping-Cart.git"
 }
 
 ]
